@@ -1,8 +1,8 @@
 :root {
-    --primary-pink: #FFB6C1;
-    --light-pink: #FFF0F5;
-    --dark-pink: #FF69B4;
-    --white: #ffffff;
+    --primary-orange: #FFB6C1;
+    --light-orange: #FFF0F5;
+    --dark-orange: #FF69B4;
+    --yellow: #ffffff;
     --text-color: #4A4A4A;
 }
 
@@ -15,7 +15,7 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: var(--white);
+    background-color: var(--yellow);
     color: var(--text-color);
 }
 
